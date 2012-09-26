@@ -9,11 +9,10 @@
 			background:#003399;
 			font-family: Helvetica, Arial, sans-serif;
 		}
-		h2, h3 {
+		h2 {
 			font-size: 22px;
 			font-weight: 300;
 			color: #aaa;
-			border: 1px solid #aaa;
 		}
 	</style>
 	
